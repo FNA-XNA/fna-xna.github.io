@@ -178,7 +178,8 @@ pre {
  */
 .sidebar-wrapper {
   height: 100%;
-  
+  width: 300px;
+
   @include media-query($on-palm) {
     display: none;
   }  
