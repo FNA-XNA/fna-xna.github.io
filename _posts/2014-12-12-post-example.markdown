@@ -2,8 +2,7 @@
 layout:     post
 title:      "Post example"
 date:       2014-12-12 16:41:58
-<!-- Remove the line below this to publish the post. -->
-published:  FALSE
+published:  false
 author:     Connor Shea
 ---
 
