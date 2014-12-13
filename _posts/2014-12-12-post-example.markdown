@@ -2,7 +2,8 @@
 layout:     post
 title:      "Post example"
 date:       2014-12-12 16:41:58
-categories: jekyll update
+<!-- Remove the line below this to publish the post. -->
+published:  FALSE
 author:     Connor Shea
 ---
 
@@ -17,4 +18,3 @@ Code snippet example:
 {% endhighlight %}
 
 Aenean lacinia bibendum nulla sed consectetur. Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-

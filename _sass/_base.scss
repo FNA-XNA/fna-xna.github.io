@@ -172,6 +172,27 @@ pre {
 
 
 
+
+/**
+ * Sidebar Wrapper
+ */
+.sidebar-wrapper {
+  height: 100%;
+  
+  @include media-query($on-palm) {
+    display: none;
+  }  
+
+  @include media-query($on-laptop) {
+    max-width: calc(#{$content-width} - (#{$spacing-unit}));
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
+}
+
+
+
+
 /**
  * Clearfix
  */
