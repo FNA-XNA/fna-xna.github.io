@@ -156,8 +156,22 @@ pre {
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+
+.header-wrapper {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    margin: 0 auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;
@@ -177,8 +191,8 @@ pre {
  * Sidebar Wrapper
  */
 .sidebar-wrapper {
-  height: 100%;
-  width: 300px;
+  width: 320px;
+  font-weight: 400;
 
   @include media-query($on-palm) {
     display: none;
@@ -189,6 +203,35 @@ pre {
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
   }
+
+  .clone-on-github {
+    width: 300px;
+    height: 140px;
+    background-color: #7933ea;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 30px;
+    text-align: center;
+    transition: all 300ms ease;
+
+    color: #fff;
+    fill: #fff;
+  }
+
+  .powered-by-fna {
+    width: 300px;
+    height: 140px;
+    margin: 10px;
+
+    img {
+      border-radius: 5px;
+    }
+  }
+
+  a {
+    text-decoration: none;
+  }
+
 }
 
 
