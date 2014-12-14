@@ -13,7 +13,7 @@ permalink: /articles/
 
       {{ post.excerpt }}
     
-      <span class="post-meta"><span class="post-meta-author">{{ post.author }}</span> <span class="post-meta-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <span class="post-meta"><span class="post-meta-author">{{ post.author }}</span> <span class="post-meta-date">{{ post.date | date: "%B %d, %Y" }}</span>
     </li>
   {% endfor %}
 </ul>

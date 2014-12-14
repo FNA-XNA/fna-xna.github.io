@@ -51,6 +51,6 @@ $on-laptop:        800px;
   "syntax-highlighting"
 ;
 
-* {
+*, *::after, *::before {
   box-sizing: border-box;
 }
