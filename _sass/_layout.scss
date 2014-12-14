@@ -95,9 +95,11 @@
  * Page content
  */
 .page-content {
+  max-width: calc(#{$content-width} + 300px );
   padding: $spacing-unit 0;
   display: flex;
   flex-flow: row wrap;
+  margin: auto;
 }
 
 .page-heading {
