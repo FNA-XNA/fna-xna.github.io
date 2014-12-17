@@ -124,8 +124,8 @@
   padding: $spacing-unit 0;
   display: -webkit-flex;
   display: flex;
-  -webkit-flex-flow: row wrap;
-          flex-flow: row wrap;
+  -webkit-flex-flow: row nowrap;
+          flex-flow: row nowrap;
   margin: auto;
 }
 
@@ -170,7 +170,7 @@
  * Posts
  */
 .post-header {
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit / 1.5;
 }
 
 .post-title {
