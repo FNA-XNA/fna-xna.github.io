@@ -140,6 +140,10 @@
   > li {
     margin-bottom: $spacing-unit;
   }
+
+  h2 {
+    margin-bottom: 2px;
+  }
 }
 
 .post-meta {
@@ -152,6 +156,7 @@
   text-transform: uppercase;
   font-size: $small-font-size;
   color: $grey-color-dark;
+  padding-right: 4px;
 }
 
 .post-meta-date {
