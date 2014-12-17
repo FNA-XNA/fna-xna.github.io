@@ -47,7 +47,8 @@
       position: relative;
       display: block;
       width: calc(100% + 20px);
-      transform: translateX(-10px);
+      -webkit-transform: translateX(-10px);
+              transform: translateX(-10px);
       height: 5px;
       background-color: #7933ea;
       content: '';
@@ -121,8 +122,10 @@
 .page-content {
   max-width: calc(#{$content-width} + 300px);
   padding: $spacing-unit 0;
+  display: -webkit-flex;
   display: flex;
-  flex-flow: row wrap;
+  -webkit-flex-flow: row wrap;
+          flex-flow: row wrap;
   margin: auto;
 }
 
