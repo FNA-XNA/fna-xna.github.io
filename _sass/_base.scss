@@ -154,13 +154,12 @@ pre {
  */
 .wrapper {
   max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
+  padding: 0px $spacing-unit;
   @extend %clearfix;
 
   @include media-query($on-laptop) {
     max-width: calc(#{$content-width} - (#{$spacing-unit}));
-    padding-left: $spacing-unit / 2;
+    padding: 0px calc(#{$spacing-unit} / 2);
   }
 }
 
@@ -184,7 +183,7 @@ pre {
  * Sidebar Wrapper
  */
 .sidebar-wrapper {
-  width: 320px;
+  min-width: 320px;
   font-weight: 400;
 
   @include media-query($on-palm) {
@@ -237,7 +236,6 @@ pre {
   a {
     text-decoration: none;
   }
-
 }
 
 

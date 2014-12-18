@@ -4,21 +4,10 @@ title: License
 permalink: /license/
 ---
 
-<pre>
-  Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-  Nullavitae elit libero, a pharetra augue. Cras justo odio, dapibusac facilisis 
-  in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit. 
-  Vestibulum id ligula porta felis euismod semper. Aenean eu leo quam.
-  Pellentesque ornare sem lacinia quam venenatis vestibulum.
+<div class="license">
+  <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
 
-  Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis
-  parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies
-  vehicula ut id elit. Donec sed odio dui. Donec id elit non mi porta gravida at
-  eget metus. Vestibulum id ligula porta felis euismod semper.
+  <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 
-  Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo
-  cursus magna, vel scelerisque nisl consectetur et. Cras mattis consectetur 
-  purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat
-  porttitor ligula, get lacinia odio sem nec elit. Aenean eu leo quam.
-  Pellentesque ornare sem lacinia quam venenatis vestibulum.
-</pre>
+  <p>Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit libero, a pharetra augue.</p>
+</div>
