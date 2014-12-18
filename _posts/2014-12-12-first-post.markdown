@@ -1,7 +1,8 @@
 ---
 layout:     post
-title:      "First Post"
+title:      "Fusce pellentesque quam ultricies cras"
 date:       2014-12-12 16:41:58
+# published:  false
 author:     Connor Shea
 ---
 
