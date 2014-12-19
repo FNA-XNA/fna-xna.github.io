@@ -142,6 +142,12 @@
 
   > li {
     margin-bottom: $spacing-unit / 2;
+
+    &:first-of-type {
+      > h2 {
+        padding-top: 5px;
+      }
+    }
   }
 
   h2 {
