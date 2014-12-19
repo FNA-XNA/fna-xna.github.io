@@ -2,10 +2,12 @@
  * Site header
  */
 .site-header {
+  background-color: #fff;
   border-bottom: 1px solid $grey-color-light;
   height: 50px;
-  box-shadow: 0px -30px 60px rgba(0,0,0,0.5);
-  position: relative;
+  box-shadow: 0px -20px 25px 10px rgba(0,0,0,0.3);
+  position: fixed;
+  width: 100vw;
 }
 
 .site-nav {
@@ -127,6 +129,7 @@
   -webkit-flex-flow: row nowrap;
           flex-flow: row nowrap;
   margin: auto;
+  padding-top: 75px;
 }
 
 .page-heading {
