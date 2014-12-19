@@ -96,15 +96,15 @@ This file is a pure C# port of the lzxd.c file from libmspack, with minor
 changes towards the decompression of XNB files. The original decompression
 software of LZX encoded data was written by Suart Caie in his
 libmspack/cabextract projects, which can be located at
-http://http://www.cabextract.org.uk/
+<a href="http://www.cabextract.org.uk/">http://www.cabextract.org.uk/</a>
 
 GNU Lesser General Public License, Version 2.1
 ----------------------------------------------
-https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+<a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</a>
 
 Microsoft Public License
 ------------------------
-http://www.opensource.org/licenses/ms-pl.html
+<a href="http://www.opensource.org/licenses/ms-pl.html">http://www.opensource.org/licenses/ms-pl.html</a>
 </pre>
 
 
@@ -114,7 +114,7 @@ http://www.opensource.org/licenses/ms-pl.html
 The unxwb project, written by Luigi Auriemma, was released in 2006 under the
 GNU General Public License, version 2.0:
 
-http://www.gnu.org/licenses/gpl-2.0.html
+<a href="http://www.gnu.org/licenses/gpl-2.0.html">http://www.gnu.org/licenses/gpl-2.0.html</a>
 
 While the unxwb project was released under the GPL, Luigi has given express
 permission to the MonoGame project to use code from unxwb under the MonoGame
@@ -122,7 +122,7 @@ project license. See LICENSE for details.
 
 The unxwb website can be found here:
 
-http://aluigi.altervista.org/papers.htm#xbox
+<a href="http://aluigi.altervista.org/papers.htm#xbox">http://aluigi.altervista.org/papers.htm#xbox</a>
 </pre>
 
 
