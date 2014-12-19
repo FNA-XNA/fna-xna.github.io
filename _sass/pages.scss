@@ -1,9 +1,15 @@
 .license {
   background-color: #eef;
   border-radius: 4px;
+  font: 400 16px/1.5em monospace;
   padding: 8px 12px;
+  margin-bottom: 30px;
 
-  p {
-    font: 400 16px/1.5em monospace;
+  &:first-of-type > ol > li:first-of-type > ol {
+    list-style-type: disc;
+  }
+
+  > ol > li > ol {
+    list-style-type: upper-latin;
   }
 }
