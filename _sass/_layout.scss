@@ -40,6 +40,10 @@
     }
   }
 
+  #clone-on-github-mobile {
+    display: none;
+  }
+
   .current {
     color: #7933ea;
     font-weight: 400;
@@ -86,9 +90,15 @@
       }
     }
 
-    .current {
+    #clone-on-github-mobile {
+      display: block;
       color: #7933ea;
-      font-weight: 400;
+      font-weight: 500;
+    }
+
+    .current {
+      color: $text-color;
+      font-weight: 300;
 
       &:after {
         display: none;

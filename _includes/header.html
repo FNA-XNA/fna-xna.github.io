@@ -3,7 +3,7 @@
   <div class="header-wrapper">
 
     <a id="header-logo" href="{{ site.baseurl }}/">
-      <svg version="1.1" x="0px" y="0px" width="143px" height="50px" viewBox="0 0 143 50">
+      <svg version="1.1" x="0px" y="0px" width="130px" height="50px" viewBox="0 0 130 50">
         <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="65.606" y1="45.1484" x2="65.606" y2="4.8516">
           <stop offset="0" style="stop-color:#7933EA;stop-opacity:0.8"/>
           <stop offset="1" style="stop-color:#7933EA"/>
@@ -37,6 +37,7 @@
       <div class="trigger">
         {% assign current = page.url | downcase | split: '/' %}
         
+        <a class="page-link" id="clone-on-github-mobile" href="https://github.com/flibitijibibo/FNA">Clone on GitHub</a>
         <a class="page-link{% if current[1] == "about" %} current{% endif %}" href="/about">About</a>
         <a class="page-link{% if current[1] == "articles" %} current{% endif %}" href="/articles">Articles</a>
         <a class="page-link{% if current[1] == "license" %} current{% endif %}" href="/license">License</a>
