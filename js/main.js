@@ -10,7 +10,7 @@ $(function() {
   if (windowwidth > 800) {
 
     // An array listing all the games which the sidebar can choose from.
-    var games = [60,220,440,620,730,228960,241600,251470];
+    var games = [95300,216290,251370,207650,241600,236090,222730,29160,255340,238630,228960,251470,208750];
 
     // Initializes the variable "i".
     var i;
