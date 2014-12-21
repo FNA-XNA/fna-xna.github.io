@@ -10,7 +10,26 @@ $(function() {
   if (windowwidth > 800) {
 
     // An array listing all the games which the sidebar can choose from.
-    var games = [95300,216290,251370,207650,241600,236090,222730,29160,255340,238630,228960,251470,208750,312200,251210,312720];
+    // Games are represented here by their SteamID.
+    var games = [29160,95300,207650,208750,216290,222730,228960,236090,238630,241600,251210,251370,251470,255340,312200,312720];
+
+    // GAMES:
+    // 29160  - Blueberry Garden
+    // 95300  - Capsized
+    // 207650 - A Virus Named TOM
+    // 208750 - Apotheon
+    // 216290 - Gateways
+    // 222730 - Reus
+    // 228960 - Skulls of the Shogun
+    // 236090 - Dust: An Elysian Tail
+    // 238630 - Fist Puncher
+    // 241600 - Rogue Legacy
+    // 251210 - Hive
+    // 251370 - Escape Goat
+    // 251470 - TowerFall Ascension
+    // 255340 - Escape Goat 2
+    // 312200 - Chasm
+    // 312720 - Khet 2.0
 
     // Initializes the variable "i".
     var i;
