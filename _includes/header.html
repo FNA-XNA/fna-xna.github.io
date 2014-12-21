@@ -38,7 +38,6 @@
         {% assign current = page.url | downcase | split: '/' %}
         
         <a class="page-link" id="clone-on-github-mobile" href="https://github.com/flibitijibibo/FNA">Clone on GitHub</a>
-        <a class="page-link{% if current[1] == "about" %} current{% endif %}" href="/about">About</a>
         <a class="page-link{% if current[1] == "articles" %} current{% endif %}" href="/articles">Articles</a>
         <a class="page-link{% if current[1] == "license" %} current{% endif %}" href="/license">License</a>
         <a class="page-link{% if current[1] == "download" %} current{% endif %}" href="/download">Download</a>
