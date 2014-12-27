@@ -133,7 +133,7 @@
  */
 .page-content {
   max-width: calc(#{$content-width} + 300px);
-  padding: $spacing-unit 0;
+  padding: $spacing-unit 0 10px 0;
   display: -webkit-flex;
   display: flex;
   -webkit-flex-flow: row nowrap;
@@ -208,7 +208,6 @@
 }
 
 .post-content {
-  margin-bottom: $spacing-unit;
 
   h2 {
     font-size: 32px;

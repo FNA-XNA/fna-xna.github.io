@@ -1,7 +1,62 @@
 .license {
   background-color: #eef;
-  border-radius: 4px;
+  border-radius: 2px;
   font: 400 16px/1.5em monospace;
-  padding: 8px 12px;
   margin-bottom: 30px;
+  padding: 8px 12px;
+}
+
+#download-masthead {
+  display: flex;
+  flex: 1;
+  max-height: 600px;
+  flex-flow: column wrap;
+
+  @media all and (max-width: 1000px) {
+    max-height: 5000px;
+    flex-flow: column nowrap;
+  }
+}
+
+.download-container {
+  width: calc(50% - 12px);
+  margin: 6px;
+  padding: 10px 15px 5px;
+  background-color: #fff;
+  border: 1px solid #c9c9c9;
+  border-radius: 4px;
+  box-shadow: inset 0px -2px 0px #c9c9c9;
+
+  h4 {
+    font-weight: 500;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+  }
+
+  @media all and (max-width: 1000px) {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 6px 0px;
+  }
+
+  p.bold {
+    font-weight: 500;
+  }
+}
+
+#download-release-container {
+  text-align: center;
+  font-weight: 400;
+  height: auto;
+  width: 100%;
+  
+  p {
+    display: inline-block;
+    width: calc(50% - 10px);
+    
+    @media all and (max-width: 600px) {
+      width: 100%;
+    }
+  }
 }
