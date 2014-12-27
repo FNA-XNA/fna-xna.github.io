@@ -7,14 +7,18 @@
 }
 
 #download-masthead {
+  display: -webkit-flex;
   display: flex;
-  flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
   max-height: 600px;
-  flex-flow: column wrap;
+  -webkit-flex-flow: column wrap;
+          flex-flow: column wrap;
 
   @media all and (max-width: 1000px) {
     max-height: 5000px;
-    flex-flow: column nowrap;
+    -webkit-flex-flow: column nowrap;
+            flex-flow: column nowrap;
   }
 }
 
