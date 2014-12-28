@@ -1,6 +1,3 @@
----
----
-
 $(function() {
   
   var windowwidth = $(window).width();
