@@ -58,7 +58,7 @@ Oh, right. GitHub can't even process that many forks. So again, I ask: How many 
 
 So let's get back to the topic of why you see "Clone" on the left of this page. As noted in the <a href="https://github.com/flibitijibibo/FNA/wiki">FNA documentation</a>, you will be typing this command in before anything else (assuming you are not downloading a stable release from this site):
 
-{% highlight c# %}
+{% highlight bash %}
 git clone --recursive git://github.com/FNA-XNA/FNA.git
 {% endhighlight %}
 
