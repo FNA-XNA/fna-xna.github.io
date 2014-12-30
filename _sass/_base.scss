@@ -126,6 +126,11 @@ blockquote {
   }
 }
 
+/* I'm a strong HTML element who don't need no font weights. */
+strong {
+  font-weight: 600;
+}
+
 
 
 /**
