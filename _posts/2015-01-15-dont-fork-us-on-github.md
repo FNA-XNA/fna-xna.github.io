@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Don't Fork Us on GitHub"
-date:       2014-12-29
+date:       2015-01-15
 # published:  false
 author:     Ethan "flibitijibibo" Lee
 ---
@@ -42,7 +42,7 @@ Wait, what? You mean to tell me that you have to do a process like what I did wi
 
 Well, of course not. That's just what GitHub calls it, because when you click the "fork" button, you get what appears to be a whole new copy of the source in your GitHub account. But what this is much closer to is "branching", not "forking". (And to my understanding, this is what's actually happening behind the scenes in GitHub's infrastructure anyway.)
 
-And to be fair, in a way this *is* like forking, as many people who fork things on GitHub take a dramatically different approach to the upstream development process; that is, they take the approach of not developing the software at all. Have a look at SDL2#'s *43 different forks* (as of writing) on GitHub:
+And to be fair, in a way this *is* like forking, as many people who fork things on GitHub take a dramatically different approach to the upstream development process; that is, they take the approach of not developing the software at all. Have a look at SDL2#'s *45 different forks* (as of writing) on GitHub:
 
 <a href="https://github.com/flibitijibibo/SDL2-CS/network">SDL2# Network</a>
 
@@ -50,7 +50,7 @@ Pretty amazing, isn't it?
 
 The first thing you'll notice is that there are only about 9 names, out of the 43 that GitHub has tracked. That's because the other 34 went to the trouble of forking the entire repository, only to do nothing with it. For some reason.
 
-And keep in mind, this is a *small* case. Let's look at the MonoGame network, which has, and I'm not kidding here, **1,402 different forks on GitHub** (again, as of writing):
+And keep in mind, this is a *small* case. Let's look at the MonoGame network, which has, and I'm not kidding here, **1,428 different forks on GitHub** (again, as of writing):
 
 <a href="https://github.com/mono/MonoGame/network">MonoGame Network</a>
 
