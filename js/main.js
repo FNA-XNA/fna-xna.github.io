@@ -8,7 +8,7 @@ $(function() {
 
     // An array listing all the games which the sidebar can choose from.
     // Games are represented here by their SteamID.
-    var games = [29160,95300,207650,208750,216290,222730,228960,236090,238630,241600,251210,251370,251470,255340,312200,312720];
+    var games = [29160,95300,207650,208750,216290,222730,228960,236090,238630,241600,251210,251370,251470,255340,312200,312720,342490];
 
     // GAMES:
     // 29160  - Blueberry Garden
@@ -27,7 +27,7 @@ $(function() {
     // 255340 - Escape Goat 2
     // 312200 - Chasm
     // 312720 - Khet 2.0
-    // 342490 - Shipwreck TODO: Add this when it ships!
+    // 342490 - Shipwreck
     // 270210 - Melody's Escape TODO
 
     // Initializes the variable "i".
