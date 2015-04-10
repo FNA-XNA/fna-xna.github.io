@@ -8,7 +8,7 @@ $(function() {
 
     // An array listing all the games which the sidebar can choose from.
     // Games are represented here by their SteamID.
-    var games = [29160,95300,207650,208750,216290,222730,228960,236090,238630,239800,241600,251210,251370,251470,255340,270210,288020,307430,312200,312720,342490];
+    var games = [29160,95300,207650,208750,216290,222730,228960,236090,238630,239800,241600,251210,251370,251470,255340,270210,288020,307430,312200,312720,334560,342490];
 
     // GAMES:
     // 29160  - Blueberry Garden
@@ -31,6 +31,7 @@ $(function() {
     // 307430 - Reversi
     // 312200 - Chasm
     // 312720 - Khet 2.0
+    // 334560 - Square Heroes
     // 342490 - Shipwreck
 
     // Initializes the variable "i".
