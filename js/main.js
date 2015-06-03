@@ -8,7 +8,7 @@ $(function() {
 
     // An array listing all the games which the sidebar can choose from.
     // Games are represented here by their SteamID.
-    var games = [29160,95300,207650,208750,216290,222730,228960,236090,238630,239800,241600,251210,251370,251470,255340,270210,288020,307430,312200,312720,332200,334560,342490,356420];
+    var games = [29160,95300,207650,208750,216290,222730,228960,236090,238630,239800,241600,251210,251370,251470,255340,263960,270210,288020,307430,312200,312720,332200,334560,342490,356420];
 
     // GAMES:
     // 29160  - Blueberry Garden
@@ -26,6 +26,7 @@ $(function() {
     // 251370 - Escape Goat
     // 251470 - TowerFall Ascension
     // 255340 - Escape Goat 2
+    // 263960 - Wyv and Keep
     // 270210 - Melody's Escape
     // 288020 - Rex Rocket
     // 307430 - Reversi
