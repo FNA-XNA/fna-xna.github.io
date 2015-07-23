@@ -8,7 +8,7 @@ $(function() {
 
     // An array listing all the games which the sidebar can choose from.
     // Games are represented here by their SteamID.
-    var games = [29160,95300,207420,207650,208750,216290,222730,228960,236090,238630,239800,241600,251210,251370,251470,255340,263960,270210,288020,307430,312200,312720,332200,334560,342490,356420];
+    var games = [29160,95300,207420,207650,208750,216290,222730,224500,228960,236090,238630,239800,241600,251210,251370,251470,255340,263960,270210,288020,307430,312200,312720,332200,334560,342490,356420];
 
     // GAMES:
     // 29160  - Blueberry Garden
@@ -18,6 +18,7 @@ $(function() {
     // 208750 - Apotheon
     // 216290 - Gateways
     // 222730 - Reus
+    // 224500 - Gnomoria
     // 228960 - Skulls of the Shogun
     // 236090 - Dust: An Elysian Tail
     // 238630 - Fist Puncher
