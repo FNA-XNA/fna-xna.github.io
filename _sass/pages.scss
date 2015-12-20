@@ -48,19 +48,3 @@
     font-weight: 500;
   }
 }
-
-#download-release-container {
-  text-align: center;
-  font-weight: 400;
-  height: auto;
-  width: 100%;
-  
-  p {
-    display: inline-block;
-    width: calc(50% - 10px);
-    
-    @media all and (max-width: 600px) {
-      width: 100%;
-    }
-  }
-}
