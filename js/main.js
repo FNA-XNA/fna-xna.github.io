@@ -65,7 +65,7 @@ $(function() {
 
         // Sets variables for the game's Steam URL and Steam banner image.
         var chosenGameURL = 'http://store.steampowered.com/app/' + chosenGame + '/';
-        var chosenGameImage = 'http://cdn.akamai.steamstatic.com/steam/apps/' + chosenGame + '/header.jpg';
+        var chosenGameImage = '//steamcdn-a.akamaihd.net/steam/apps/' + chosenGame + '/header.jpg';
 
         // Adds the Chosen Game's image and URL to the respective HTML elements.
         $('#sidebar-game-' + i).attr('href',chosenGameURL);
