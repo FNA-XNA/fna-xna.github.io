@@ -64,7 +64,7 @@ $(function() {
         var chosenGame = games[randomNumber];
 
         // Sets variables for the game's Steam URL and Steam banner image.
-        var chosenGameURL = 'http://store.steampowered.com/app/' + chosenGame + '/';
+        var chosenGameURL = '//store.steampowered.com/app/' + chosenGame + '/';
         var chosenGameImage = '//steamcdn-a.akamaihd.net/steam/apps/' + chosenGame + '/header.jpg';
 
         // Adds the Chosen Game's image and URL to the respective HTML elements.
