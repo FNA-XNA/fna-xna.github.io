@@ -56,7 +56,7 @@ $(function() {
     var i;
 
     // "For loop" that loops three times.
-    for (i = 1; i <= 3; i++) {
+    for (i = 1; i <= 4; i++) {
 
       (function(index) {
 
