@@ -55,7 +55,7 @@ $(function() {
     // Initializes the variable "i".
     var i;
 
-    // "For loop" that loops three times.
+    // "For loop" that loops four times.
     for (i = 1; i <= 4; i++) {
 
       (function(index) {
