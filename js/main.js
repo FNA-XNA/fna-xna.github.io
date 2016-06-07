@@ -8,50 +8,49 @@ $(function() {
 
     // An array listing all the games which the sidebar can choose from.
     // Games are represented here by their SteamID.
-    var games = [29160,95300,105600,200910,207140,207420,207650,208750,211440,216290,222730,224500,228960,236090,238630,239800,241600,251210,251370,251470,255340,263960,270210,274900,283640,288020,307430,312200,312280,312720,332200,334560,342490,344740,346510,354560,356420,365120,365450,434820,460970];
-
-    // GAMES:
-    // 29160  - Blueberry Garden
-    // 95300  - Capsized
-    // 105600 - Terraria
-    // 200910 - Before the Echo
-    // 207140 - SpeedRunners
-    // 207420 - Wizorb
-    // 207650 - A Virus Named TOM
-    // 208750 - Apotheon
-    // 211440 - The Adventures of Shuggy
-    // 216290 - Gateways
-    // 222730 - Reus
-    // 224500 - Gnomoria
-    // 228960 - Skulls of the Shogun
-    // 236090 - Dust: An Elysian Tail
-    // 238630 - Fist Puncher
-    // 239800 - Bleed
-    // 241600 - Rogue Legacy
-    // 251210 - Hive
-    // 251370 - Escape Goat
-    // 251470 - TowerFall Ascension
-    // 255340 - Escape Goat 2
-    // 263960 - Wyv and Keep
-    // 270210 - Melody's Escape
-    // 274900 - Murder Miners
-    // 283640 - Salt and Sanctuary
-    // 288020 - Rex Rocket
-    // 307430 - Reversi
-    // 312200 - Chasm
-    // 312280 - Simply Chess
-    // 312720 - Khet 2.0
-    // 332200 - Axiom Verge
-    // 334560 - Square Heroes
-    // 342490 - Shipwreck
-    // 344740 - Cryptark
-    // 346510 - Hyphen
-    // 354560 - We Are Legion
-    // 356420 - Interloper
-    // 365120 - Curse of the Crescent Isle DX
-    // 365450 - Hacknet
-    // 434820 - Brushwood Buddies
-    // 460970 - Soulcaster I/II
+    var games = [
+      29160,  // Blueberry Garden
+      95300,  // Capsized
+      105600, // Terraria
+      200910, // Before the Echo
+      207140, // SpeedRunners
+      207420, // Wizorb
+      207650, // A Virus Named TOM
+      208750, // Apotheon
+      211440, // The Adventures of Shuggy
+      216290, // Gateways
+      222730, // Reus
+      224500, // Gnomoria
+      228960, // Skulls of the Shogun
+      236090, // Dust: An Elysian Tail
+      238630, // Fist Puncher
+      239800, // Bleed
+      241600, // Rogue Legacy
+      251210, // Hive
+      251370, // Escape Goat
+      251470, // TowerFall Ascension
+      255340, // Escape Goat 2
+      263960, // Wyv and Keep
+      270210, // Melody's Escape
+      274900, // Murder Miners
+      283640, // Salt and Sanctuary
+      288020, // Rex Rocket
+      307430, // Reversi
+      312200, // Chasm
+      312280, // Simply Chess
+      312720, // Khet 2.0
+      332200, // Axiom Verge
+      334560, // Square Heroes
+      342490, // Shipwreck
+      344740, // Cryptark
+      346510, // Hyphen
+      354560, // We Are Legion
+      356420, // Interloper
+      365120, // Curse of the Crescent Isle DX
+      365450, // Hacknet
+      434820, // Brushwood Buddies
+      460970, // Soulcaster I/II
+    ];
 
     // Initializes the variable "i".
     var i;
