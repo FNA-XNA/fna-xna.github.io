@@ -25,6 +25,7 @@ $(function() {
       236090, // Dust: An Elysian Tail
       238630, // Fist Puncher
       239800, // Bleed
+      240440, // Quadrilateral Cowboy Art Book
       241600, // Rogue Legacy
       251210, // Hive
       251370, // Escape Goat
