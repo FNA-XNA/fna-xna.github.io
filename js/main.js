@@ -36,6 +36,7 @@ $(function() {
       274900, // Murder Miners
       283640, // Salt and Sanctuary
       288020, // Rex Rocket
+      303590, // Hidden in Plain Sight
       307430, // Reversi
       312200, // Chasm
       312280, // Simply Chess
