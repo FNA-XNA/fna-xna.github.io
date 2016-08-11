@@ -51,6 +51,7 @@ $(function() {
       356420, // Interloper
       365120, // Curse of the Crescent Isle DX
       365450, // Hacknet
+      396350, // Bleed 2
       434820, // Brushwood Buddies
       460970, // Soulcaster I/II
     ];
