@@ -21,6 +21,7 @@ $(function() {
       216290, // Gateways
       222730, // Reus
       224500, // Gnomoria
+      224760, // FEZ
       228960, // Skulls of the Shogun
       236090, // Dust: An Elysian Tail
       238630, // Fist Puncher
