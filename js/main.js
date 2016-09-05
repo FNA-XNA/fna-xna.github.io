@@ -54,6 +54,7 @@ $(function() {
       365450, // Hacknet
       396350, // Bleed 2
       434820, // Brushwood Buddies
+      445070, // Tatsu
       460970, // Soulcaster I/II
     ];
 
