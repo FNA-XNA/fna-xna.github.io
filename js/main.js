@@ -38,6 +38,7 @@ $(function() {
       270210, // Melody's Escape
       274900, // Murder Miners
       283640, // Salt and Sanctuary
+      286000, // Tooth and Tail
       288020, // Rex Rocket
       303590, // Hidden in Plain Sight
       307430, // Reversi
