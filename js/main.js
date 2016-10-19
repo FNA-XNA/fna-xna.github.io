@@ -12,6 +12,7 @@ $(function() {
       29160,  // Blueberry Garden
       95300,  // Capsized
       105600, // Terraria
+      107100, // Bastion
       200910, // Before the Echo
       207140, // SpeedRunners
       207420, // Wizorb
