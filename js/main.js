@@ -35,6 +35,7 @@ $(function() {
       255340, // Escape Goat 2
       259000, // Dead Pixels II
       263960, // Wyv and Keep
+      268990, // The Dishwasher: Vampire Smile
       270210, // Melody's Escape
       274900, // Murder Miners
       283640, // Salt and Sanctuary
@@ -56,6 +57,7 @@ $(function() {
       365120, // Curse of the Crescent Isle DX
       365450, // Hacknet
       396350, // Bleed 2
+      405290, // Charlie Murder
       434820, // Brushwood Buddies
       445070, // Tatsu
       460970, // Soulcaster I/II
