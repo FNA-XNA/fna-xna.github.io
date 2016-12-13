@@ -13,6 +13,7 @@ $(function() {
       95300,  // Capsized
       105600, // Terraria
       107100, // Bastion
+      115800, // Owlboy
       200910, // Before the Echo
       207140, // SpeedRunners
       207420, // Wizorb
