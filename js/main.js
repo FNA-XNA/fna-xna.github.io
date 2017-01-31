@@ -63,6 +63,7 @@ $(function() {
       445070, // Tatsu
       460970, // Soulcaster I/II
       495680, // Overdriven Reloaded
+      561740, // MidBoss
     ];
 
     // Initializes the variable "i".
