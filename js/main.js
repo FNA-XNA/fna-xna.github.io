@@ -62,6 +62,7 @@ $(function() {
       434820, // Brushwood Buddies
       445070, // Tatsu
       460970, // Soulcaster I/II
+      495680, // Overdriven Reloaded
     ];
 
     // Initializes the variable "i".
