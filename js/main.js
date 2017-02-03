@@ -59,6 +59,7 @@ $(function() {
       365450, // Hacknet
       396350, // Bleed 2
       405290, // Charlie Murder
+      422810, // River City Ransom: Underground
       434820, // Brushwood Buddies
       445070, // Tatsu
       460970, // Soulcaster I/II
