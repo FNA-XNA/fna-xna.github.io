@@ -21,6 +21,7 @@ $(function() {
       208750, // Apotheon
       211440, // The Adventures of Shuggy
       216290, // Gateways
+      218820, // Mercenary Kings
       222730, // Reus
       224500, // Gnomoria
       224760, // FEZ
@@ -58,6 +59,7 @@ $(function() {
       365120, // Curse of the Crescent Isle DX
       365450, // Hacknet
       396350, // Bleed 2
+      401710, // Flinthook
       405290, // Charlie Murder
       422810, // River City Ransom: Underground
       434820, // Brushwood Buddies
