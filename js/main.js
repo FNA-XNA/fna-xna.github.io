@@ -66,6 +66,7 @@ $(function() {
       434820, // Brushwood Buddies
       445070, // Tatsu
       460970, // Soulcaster I/II
+      466350, // Fossil Echo
       495680, // Overdriven Reloaded
       548220, // Paladin
       561740, // MidBoss
