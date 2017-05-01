@@ -70,6 +70,7 @@ $(function() {
       495680, // Overdriven Reloaded
       548220, // Paladin
       561740, // MidBoss
+      602080, // Solaroids: Prologue
     ];
 
     // Initializes the variable "i".
