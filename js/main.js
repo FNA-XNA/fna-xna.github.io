@@ -60,6 +60,7 @@ $(function() {
       365450, // Hacknet
       396350, // Bleed 2
       401710, // Flinthook
+      402330, // Press X to Not Die
       405290, // Charlie Murder
       416600, // Full Metal Furies
       422810, // River City Ransom: Underground
