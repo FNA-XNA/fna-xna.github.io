@@ -72,6 +72,7 @@ $(function() {
       548220, // Paladin
       561740, // MidBoss
       602080, // Solaroids: Prologue
+      701040, // CometStriker
     ];
 
     // Initializes the variable "i".
