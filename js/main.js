@@ -34,6 +34,7 @@ $(function() {
       251210, // Hive
       251370, // Escape Goat
       251470, // TowerFall Ascension
+      252390, // DwarfCorp
       255340, // Escape Goat 2
       259000, // Dead Pixels II
       263960, // Wyv and Keep
