@@ -70,6 +70,7 @@ $(function() {
       460970, // Soulcaster I/II
       466350, // Fossil Echo
       495680, // Overdriven Reloaded
+      504230, // Celeste
       548220, // Paladin
       561740, // MidBoss
       602080, // Solaroids: Prologue
