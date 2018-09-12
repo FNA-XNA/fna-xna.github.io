@@ -59,6 +59,7 @@ $(function() {
       356420, // Interloper
       365120, // Curse of the Crescent Isle DX
       365450, // Hacknet
+      368620, // Timespinner
       396350, // Bleed 2
       401710, // Flinthook
       402330, // Press X to Not Die
