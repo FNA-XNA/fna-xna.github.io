@@ -108,24 +108,6 @@ Microsoft Public License
 </pre>
 
 
-<p>FNA uses code from the unxwb project, specially released under the MonoGame project license.</p>
-
-<pre class="license">
-The unxwb project, written by Luigi Auriemma, was released in 2006 under the
-GNU General Public License, version 2.0:
-
-<a href="http://www.gnu.org/licenses/gpl-2.0.html">http://www.gnu.org/licenses/gpl-2.0.html</a>
-
-While the unxwb project was released under the GPL, Luigi has given express
-permission to the MonoGame project to use code from unxwb under the MonoGame
-project license. See LICENSE for details.
-
-The unxwb website can be found here:
-
-<a href="http://aluigi.altervista.org/papers.htm#xbox">http://aluigi.altervista.org/papers.htm#xbox</a>
-</pre>
-
-
 <p>FNA uses code from the Mono.Xna project, released under the MIT license.</p>
 
 <pre class="license">
