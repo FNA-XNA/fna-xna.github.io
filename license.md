@@ -8,7 +8,7 @@ permalink: /license/
 
 <pre class="license">
 Microsoft Public License (Ms-PL)
-FNA - Copyright 2009-2017 Ethan Lee and the MonoGame Team
+FNA - Copyright 2009-2018 Ethan Lee and the MonoGame Team
 
 All rights reserved.
 
