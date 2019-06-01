@@ -10,6 +10,7 @@ $(function() {
     // Games are represented here by their SteamID.
     var games = [
       29160,  // Blueberry Garden
+      55000,  // Flotilla
       95300,  // Capsized
       105600, // Terraria
       107100, // Bastion
