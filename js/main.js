@@ -46,6 +46,7 @@ $(function() {
       283640, // Salt and Sanctuary
       286000, // Tooth and Tail
       288020, // Rex Rocket
+      291610, // Growing Pains
       297660, // Super Rad Raygun
       303590, // Hidden in Plain Sight
       307430, // Reversi
