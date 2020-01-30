@@ -39,6 +39,7 @@ $(function() {
       252390, // DwarfCorp
       255340, // Escape Goat 2
       259000, // Dead Pixels II
+      262690, // Little Racers STREET
       263960, // Wyv and Keep
       268990, // The Dishwasher: Vampire Smile
       270210, // Melody's Escape
