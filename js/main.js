@@ -82,6 +82,7 @@ $(function() {
       561740, // MidBoss
       602080, // Solaroids: Prologue
       701040, // CometStriker
+      1016920, // Unrailed!
       1258040, // Super Bernie World
     ];
 
