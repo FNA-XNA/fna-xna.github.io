@@ -71,6 +71,7 @@ $(function() {
       405290, // Charlie Murder
       416600, // Full Metal Furies
       422810, // River City Ransom: Underground
+      427830, // Hybrid Beasts
       434820, // Brushwood Buddies
       445070, // Tatsu
       460970, // Soulcaster I/II
