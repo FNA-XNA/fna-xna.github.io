@@ -84,6 +84,7 @@ $(function() {
       602080, // Solaroids: Prologue
       628830, // Ultra Hat Dimension
       701040, // CometStriker
+      985890, // Streets of Rage 4
       1016920, // Unrailed!
       1258040, // Super Bernie World
     ];
