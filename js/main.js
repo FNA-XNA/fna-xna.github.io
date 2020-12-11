@@ -86,6 +86,7 @@ $(function() {
       701040, // CometStriker
       985890, // Streets of Rage 4
       1016920, // Unrailed!
+      1170300, // Glitchangels
       1258040, // Super Bernie World
     ];
 
