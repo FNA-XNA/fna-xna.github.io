@@ -88,6 +88,7 @@ $(function() {
       1016920, // Unrailed!
       1170300, // Glitchangels
       1258040, // Super Bernie World
+      1325260, // Kitsune Tails
     ];
 
     // Initializes the variable "i".
