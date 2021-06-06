@@ -89,6 +89,7 @@ $(function() {
       1170300, // Glitchangels
       1258040, // Super Bernie World
       1325260, // Kitsune Tails
+      1503430, // Groov
     ];
 
     // Initializes the variable "i".
