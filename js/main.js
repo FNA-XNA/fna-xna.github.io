@@ -80,6 +80,7 @@ $(function() {
       504230, // Celeste
       506870, // Unexplored
       548220, // Paladin
+      548110, // Star-Twine
       561740, // MidBoss
       602080, // Solaroids: Prologue
       628830, // Ultra Hat Dimension
@@ -88,6 +89,7 @@ $(function() {
       1016920, // Unrailed!
       1170300, // Glitchangels
       1258040, // Super Bernie World
+      1280300, // Steel Assault
       1325260, // Kitsune Tails
       1503430, // Groov
     ];
