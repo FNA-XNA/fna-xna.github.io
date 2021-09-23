@@ -69,6 +69,7 @@ $(function() {
       401710, // Flinthook
       402330, // Press X to Not Die
       405290, // Charlie Murder
+      405710, // Staxel
       416600, // Full Metal Furies
       422810, // River City Ransom: Underground
       427830, // Hybrid Beasts
