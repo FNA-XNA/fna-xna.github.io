@@ -93,6 +93,7 @@ $(function() {
       1280300, // Steel Assault
       1325260, // Kitsune Tails
       1503430, // Groov
+      1771340, // Miasma: Citizens of Free Thought
     ];
 
     // Initializes the variable "i".
