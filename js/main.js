@@ -61,6 +61,7 @@ $(function() {
       346510, // Hyphen
       354560, // We Are Legion
       356420, // Interloper
+      364060, // Capsule Force
       365120, // Curse of the Crescent Isle DX
       365450, // Hacknet
       368620, // Timespinner
@@ -75,25 +76,33 @@ $(function() {
       427830, // Hybrid Beasts
       434820, // Brushwood Buddies
       445070, // Tatsu
+      449320, // Dino Eggs: Rebirth
       460970, // Soulcaster I/II
+      462860, // Crawlers and Brawlers
       466350, // Fossil Echo
       495680, // Overdriven Reloaded
       504230, // Celeste
       506870, // Unexplored
+      520680, // Lost Cities
       548220, // Paladin
       548110, // Star-Twine
       561740, // MidBoss
       602080, // Solaroids: Prologue
       628830, // Ultra Hat Dimension
       701040, // CometStriker
+      732810, // Slipstream
+      // 778700, // Amorous (NSFW)
+      915720, // Session Seven
       975510, // Panzer Paladin
       985890, // Streets of Rage 4
       1016920, // Unrailed!
       1170300, // Glitchangels
       1258040, // Super Bernie World
       1280300, // Steel Assault
+      1300650, // Rodent & Plan: Secret Origin
       1325260, // Kitsune Tails
       1503430, // Groov
+      1637730, // Crystal Project
       1765980, // Miasma 2: Freedom Uprising
       1771340, // Miasma: Citizens of Free Thought
       1800730, // I MAED A GAM3 W1TH Z0MB1ES 1N IT!!!1
