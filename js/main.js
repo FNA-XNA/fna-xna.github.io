@@ -101,6 +101,7 @@ $(function() {
       1280300, // Steel Assault
       1300650, // Rodent & Plan: Secret Origin
       1325260, // Kitsune Tails
+      1361510, // TMNT: Shredder's Revenge
       1503430, // Groov
       1637730, // Crystal Project
       1765980, // Miasma 2: Freedom Uprising
