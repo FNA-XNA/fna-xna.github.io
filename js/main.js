@@ -27,6 +27,7 @@ $(function() {
       224500, // Gnomoria
       224760, // FEZ
       228960, // Skulls of the Shogun
+      234900, // Anodyne Remastered
       236090, // Dust: An Elysian Tail
       238630, // Fist Puncher
       239800, // Bleed
