@@ -110,6 +110,8 @@ $(function() {
       1765980, // Miasma 2: Freedom Uprising
       1771340, // Miasma: Citizens of Free Thought
       1800730, // I MAED A GAM3 W1TH Z0MB1ES 1N IT!!!1
+      1821310, // Kitten Lost Her Box
+      2640520, // Cat Warrior
     ];
 
     // Initializes the variable "i".
