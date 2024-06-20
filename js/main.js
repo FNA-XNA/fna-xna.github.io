@@ -113,6 +113,7 @@ $(function() {
       1821310, // Kitten Lost Her Box
       2158670, // RPG Architect
       2640520, // Cat Warrior
+      2926110, // Vay
     ];
 
     // Initializes the variable "i".
