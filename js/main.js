@@ -24,6 +24,7 @@ $(function() {
       216290, // Gateways
       218820, // Mercenary Kings
       222730, // Reus
+      222980, // Dead Pixels
       224500, // Gnomoria
       224760, // FEZ
       228960, // Skulls of the Shogun
