@@ -115,6 +115,7 @@ $(function() {
       2158670, // RPG Architect
       2281370, // dashton+
       2640520, // Cat Warrior
+      2753970, // Marvel Cosmic Avengers
       2818150, // Cattle Country
       2830430, // Mute Crimson DX
       2926110, // Vay
