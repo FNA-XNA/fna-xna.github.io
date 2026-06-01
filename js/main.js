@@ -121,6 +121,7 @@ $(function() {
       2818150, // Cattle Country
       2830430, // Mute Crimson DX
       2926110, // Vay
+      4371430, // Twofold Tower
     ];
 
     // Initializes the variable "i".
