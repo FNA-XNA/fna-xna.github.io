@@ -117,6 +117,7 @@ $(function() {
       2281370, // dashton+
       2318330, // Neverway
       2640520, // Cat Warrior
+      2656050, // Knytt Classic
       2753970, // Marvel Cosmic Invasion
       2818150, // Cattle Country
       2830430, // Mute Crimson DX
